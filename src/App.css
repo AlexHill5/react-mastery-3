@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.new-items{
+  background-color: light-blue;
+  width: 30%;
+  height: 90%;
+  margin-right: 5%;
+}
+
+.completed-items{
+  background-color: light-blue;
+  width: 30%;
+  height: 90%;
+}
